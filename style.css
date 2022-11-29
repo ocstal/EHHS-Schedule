@@ -1,0 +1,20 @@
+div {
+	align-content: center;
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+table, td {
+	border: black;
+	border-style: solid;
+}
+
+table {
+	border-width: 5px;
+}
+
+td {
+	border-width: 3px;
+}
